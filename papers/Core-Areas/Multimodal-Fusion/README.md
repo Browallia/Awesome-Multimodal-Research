@@ -2,6 +2,8 @@
 
 [Fusion Models for Improved Visual Captioning](https://arxiv.org/abs/2010.15251), MMDLCA-ICPR 2021
 
+[LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval](https://arxiv.org/pdf/2103.08784.pdf)，NAACL 2021[[code]](https://github.com/intersun/LightningDOT)
+
 [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://arxiv.org/abs/2010.10802), NeurIPS 2020 [[code]](https://github.com/itaigat/removing-bias-in-multi-modal-classifiers)
 
 [Deep Multimodal Fusion by Channel Exchanging](https://arxiv.org/abs/2011.05005?context=cs.LG), NeurIPS 2020 [[code]](https://github.com/yikaiw/CEN)
