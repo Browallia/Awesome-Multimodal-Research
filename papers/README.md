@@ -4,6 +4,7 @@
   * [Multimodal Fusion](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Multimodal-Fusion)
   * [Multimodal Alignment](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Multimodal-Alignment)
   * [Multimodal Translation](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Multimodal-Translation)
+  * [Multimodal Transformer](https://github.com/Browallia/Awesome-Multimodal-Research/tree/MT/papers/Core-Areas/Multimodel-Transformer)
   * [Missing or Imperfect Modalities](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Missing-or-Imperfect-Modalities)
   * [Knowledge Graphs and Knowledge Bases](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Knowledge-Graphs-and-Knowledge-Bases)
   * [Intepretable Learning](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Intepretable-Learning)
